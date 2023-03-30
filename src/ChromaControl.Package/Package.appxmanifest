@@ -10,7 +10,7 @@
   <Identity
     Name="ChromaControl"
     Publisher="CN=Andrew Babbitt, O=Andrew Babbitt, L=Colorado, S=Colorado Springs, C=US"
-    Version="1.0.0.0" />
+    Version="0.1.5.0" />
 
   <Properties>
     <DisplayName>Chroma Control</DisplayName>
